@@ -58,6 +58,16 @@
     font-weight: 700;
 }
 
+.signin a {
+    text-decoration: none;
+    color: white;
+}
+
+.returnandorder a {
+    text-decoration: none;
+    color: white;
+}
+
 .panelops p {
     display:inline;
     margin: 15px;
